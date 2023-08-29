@@ -2,7 +2,7 @@
 
 -  👩‍💼 I'm Software Engineer
 
-- 🌱 I’m interested in Artifical Intelligence
+- 🌱 I’m interested in Artificial Intelligence
 
 - ⚡ Fun fact "The best way to predict the future is to invent it"
 
