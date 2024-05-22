@@ -49,6 +49,9 @@
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="display: block; margin: 0 auto;"/>
+        </a>
       </td>
       <td style="padding: 8px; vertical-align: middle;">
         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -65,6 +68,9 @@
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40" style="display: block; margin: 0 auto;"/>
+        </a>
       </td>
       <td style="padding: 8px; vertical-align: middle;">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -78,9 +84,6 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a> 
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" style="display: block; margin: 0 auto;"/>
-        </a>
       </td>
     </tr>
   </tbody>
