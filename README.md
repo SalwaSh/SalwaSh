@@ -66,10 +66,10 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a> 
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
       </td>
       <td style="padding: 8px; vertical-align: middle;">
